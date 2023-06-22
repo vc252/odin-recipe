@@ -1,0 +1,2 @@
+Project: Recipes
+this ia a basic html project part of the odin project foundation course that i am doing. this would be my first project in this course and will be done using only html later when i learn some css i will come back to this project and update it.
